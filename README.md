@@ -26,7 +26,7 @@ A simple task management REST API built with **FastAPI** and **Poetry** to demon
 
 ---
 
-## 📋 Prerequisite
+## 📋 Prerequisites
 
 - Python 3.8 or higher  
 - Poetry installed
